@@ -17,6 +17,11 @@ The process is quite straightforward:
 - Click the `Source` icon again to switch to preview mode
 - Replace the placeholder text and images (just double-click an image) with your own material
 
+## Screenshots
+![Screenshot - Main](https://user-images.githubusercontent.com/4114200/142740209-e76057a8-1d0c-4325-9f17-2a7fb4fd145b.png)
+
+![Screenshot - Template](https://user-images.githubusercontent.com/4114200/142740210-b7c6c201-4fb5-4ff3-ae40-a990286bc1f0.png)
+
 ## Joinup tips & tricks
 
 You can be creative with only images and text. For example, after you've pasted a template in Joinup's editor keep in mind that:
