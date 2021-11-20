@@ -22,6 +22,10 @@ The process is quite straightforward:
 
 ![Screenshot - Template](https://user-images.githubusercontent.com/4114200/142740210-b7c6c201-4fb5-4ff3-ae40-a990286bc1f0.png)
 
+## Pre-built application binaries
+
+You can download pre-built files from the GitHub [Releases](https://github.com/pdudis/Joinup-Page-Layout-Creator/releases) page.
+
 ## Joinup tips & tricks
 
 You can be creative with only images and text. For example, after you've pasted a template in Joinup's editor keep in mind that:
