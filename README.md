@@ -47,6 +47,12 @@ This is an early release, with very basic functionality and a limited selection 
 
 The **Joinup Page Layout Creator** pays tribute to the licence created by the European Commission, and is licensed under the [European Union Public Licence](https://joinup.ec.europa.eu/collection/eupl/introduction-eupl-licence) (EUPL) version 1.2. This is a free software licence, GPL compatible, used also by the Joinup platform.
 
+## Like what you see?
+
+If you find the **Joinup Page Layout Creator** interesting then why not buy me a coffee?
+
+[![BuyMeACoffee](https://user-images.githubusercontent.com/4114200/63639089-672f6a00-c698-11e9-9fac-3b6fcac47901.png)](https://www.buymeacoffee.com/ADYsLjqfi)
+
 ---
 
 Copyright © 2021 [Petro Dudi](https://www.linkedin.com/in/pdudis)
