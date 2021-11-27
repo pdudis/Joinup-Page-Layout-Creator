@@ -1,4 +1,4 @@
-﻿namespace $safeprojectname$
+﻿namespace Joinup_Page_Layout_Creator
 {
     partial class Form1
     {
@@ -126,7 +126,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "$safeprojectname$";
+            this.Text = "Joinup Page Layout Creator";
             this.ResumeLayout(false);
 
         }

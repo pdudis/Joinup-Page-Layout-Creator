@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace $safeprojectname$
+namespace Joinup_Page_Layout_Creator
 {
     static class Program
     {

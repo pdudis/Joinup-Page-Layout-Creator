@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace $safeprojectname$
+namespace Joinup_Page_Layout_Creator
 {
     public partial class Form1 : Form
     {

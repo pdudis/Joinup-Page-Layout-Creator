@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("$safeprojectname$")]
+[assembly: AssemblyTitle("Joinup Page Layout Creator")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("$safeprojectname$")]
+[assembly: AssemblyProduct("Joinup Page Layout Creator")]
 [assembly: AssemblyCopyright("Copyright © 2021 Petro Dudi")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("$guid1$")]
+[assembly: Guid("c6d892fc-06f0-424e-b741-4e27d444c999")]
 
 // Version information for an assembly consists of the following four values:
 //
